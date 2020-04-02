@@ -1,7 +1,8 @@
 ArrayList<LightCircle> circles;
 
 void setup() {
-  size(900, 900);
+  //size(900, 900);
+  fullScreen();
   noStroke();
   noCursor();
   ellipseMode(CENTER);
