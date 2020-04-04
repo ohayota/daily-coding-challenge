@@ -4,7 +4,7 @@ ohayota's creative coding ( 2020.04.01 - 2020.05.14 )
 
 ***
 
-2020.04.01「遠ざかる」
+2020.04.01「遠ざかる」[NEORT作品ページ](https://neort.io/art/bq30ekc3p9fefb9276q0)
 
 <img src="./20200401/Processing/Hole/frames/frame-2401.jpg" width="300"><img src="./20200401/Processing/Hole/frames/frame-2441.jpg" width="300"><img src="./20200401/Processing/Hole/frames/frame-2481.jpg" width="300">
 
