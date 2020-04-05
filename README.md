@@ -25,3 +25,9 @@ ohayota's creative coding ( 2020.04.01 - 2020.05.14 )
 2020.04.04「破裂」
 
 <img src="./20200404/Processing/Alien/frames/0001.jpg" width="300"><img src="./20200404/Processing/Alien/frames/0027.jpg" width="300"><img src="./20200404/Processing/Alien/frames/0060.jpg" width="300">
+
+***
+
+2020.04.05「マイナーコード」
+
+<img src="./20200405/Processing/Audience/frames/20200405.jpg" width="300">
