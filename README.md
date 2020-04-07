@@ -37,3 +37,9 @@ ohayota's creative coding ( 2020.04.01 - 2020.05.14 )
 2020.04.06「とける」
 
 <img src="./20200406/Processing/Kanji/frames/0001.jpg" width="300"><img src="./20200406/Processing/Kanji/frames/0018.jpg" width="300"><img src="./20200406/Processing/Kanji/frames/0080.jpg" width="300">
+
+***
+
+2020.04.07「情緒の振動」
+
+<img src="./20200407/Processing/Madness/frames/20200407.jpg" width="300">
