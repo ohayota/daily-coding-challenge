@@ -43,3 +43,51 @@ ohayota's creative coding ( 2020.04.01 - 2020.05.14 )
 2020.04.07「情緒の振動」
 
 <img src="./20200407/Processing/Madness/frames/20200407.jpg" width="300">
+
+***
+
+2020.04.08「ストロボ」
+
+<img src="./20200408/Processing/Black/frames/0073.jpg" width="300">
+
+***
+
+2020.04.10「虹吹雪」
+
+<img src="./20200410/Processing/Alternate/frames/0240.jpg" width="300">
+
+***
+
+2020.04.22「年輪」
+
+<img src="./20200422/Processing/TwoYearsAgo/output.png" width="300">
+
+***
+
+2020.04.29「電気ドーナツ」
+
+<img src="./20200429/Processing/Plane/output.png" width="300">
+
+***
+
+2020.05.03「ミラーウェーブ」
+
+<img src="./20200503/Processing/UselessResistance/output.png" width="300">
+
+***
+
+2020.05.05「サーチライト」
+
+<img src="./20200505/Processing/Witness/frames/0049.jpg" width="300">
+
+***
+
+2020.05.07「雲行き」
+
+<img src="./20200507/Processing/Whereabouts/output.jpg" width="300">
+
+***
+
+2020.05.14「Fluff」
+
+<img src="./20200514/Processing/Fluff/9044.png" width="300">
