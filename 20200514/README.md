@@ -2,4 +2,4 @@
 
 44日目テーマ「わ」or「綿」
 
-![「Fluff」](./Processing/Fluff/9044.png)
+![「Fluff」](./Fluff_processing/9044.png)

@@ -2,4 +2,4 @@
 
 29日目テーマ「へ」or「平面」
 
-![「電気ドーナツ」](./Processing/Plane/output.png)
+![「電気ドーナツ」](./Electric_Donut_processing/output.png)

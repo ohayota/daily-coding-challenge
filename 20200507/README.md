@@ -2,4 +2,4 @@
 
 37日目テーマ「ゆ」or「行方知れず」
 
-![「雲行き」](./Processing/Whereabouts/output.jpg)
+![「雲行き」](./Cloud_Flow_processing/output.jpg)

@@ -2,4 +2,4 @@
 
 5日目テーマ「お」or「オーディエンス」
 
-![「マイナーコード」](./Processing/Audience/frames/20200405.jpg)
+![「マイナーコード」](./Minor_Chord_processing/Minor_Chord.jpg)
